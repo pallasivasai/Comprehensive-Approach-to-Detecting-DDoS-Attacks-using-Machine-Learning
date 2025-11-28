@@ -1,4 +1,4 @@
-# SAI — DDoS Detection Algorithm
+# SAI Algorithm — DDoS Detection 
 
 *A lightweight, high-accuracy algorithm to detect real DDoS attacks using repeated time-gap patterns between packets.*
 
